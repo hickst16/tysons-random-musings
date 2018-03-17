@@ -4,7 +4,7 @@ The other day I was watching a special director's cut of the film *Alien* on my 
 
 My friend's ranked list of *Alien* films:
 1. *Alien*
-2.* Alien Resurrection*
+2. *Alien Resurrection*
 3. *Aliens*
 4. *Alien Covenant*
 5. *Alien 3*

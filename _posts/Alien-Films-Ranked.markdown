@@ -10,13 +10,12 @@ My friend's ranked list of *Alien* films:
 5. *Alien 3*
 6. *Prometheus*
 
-I made fun of him because he prefers *Alien Resurrection* (probably the worst entry) over *Aliens* (the entry that many people regard to be better than the original).
-After, he asked me what my list was, so I gave it to him.
+I made fun of him because he prefers *Alien Resurrection* (probably the worst entry) over *Aliens* (the entry that many people regard to be better than the original). After, he asked me what my list was, so I gave it to him.
 
-My ranked list og *Alien* films:
-*1. *Alien*
-*2. Aliens*
-*3. Ailen Covenant*
-*4. Promerheus*
-*5. Alien Resurredrion*
-*6. Alien 3*
+My ranked list of *Alien* films:
+1. *Alien*
+2. *Aliens*
+3. *Ailen Covenant*
+4. *Prometheus*
+5. *Alien Resurredrion*
+6. *Alien 3*

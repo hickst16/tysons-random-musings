@@ -7,5 +7,6 @@ While my break wasn't filled with day drinking in Cancún, Mexico or partying in
 * I trekked from Reagan International Airport to Dulles because my flight at DCA got cancelled
 * I slept, slept, slept (which is something I desprerately needed as I do not sleep well when I'm on the East Coast)
 * I saw *A Wrinkle in Time* (which unfortunately was a major disappointment. My biggest problems with it were the pacing, the tone, and the development of the characters)
+* I bought my tickets to see *Avengers: Infinity War*, which I'm extremely excited about. A big fan of superhero films and Marvel films in particular
 
 Honestly, that's pretty much it. I really didn't do too too much this break, which was done by choice since I decided to go home. If I had gone somewhere else for a more active vacation then I would have done more, but I intentionally chose to go home to enjoy my time in California and to relax. 

@@ -1,3 +1,3 @@
-[https://www.theverge.com/2016/9/7/12823596/apple-iphone-7-no-headphone-jack-lightning-earbuds](The iPhone 7 Has No Headphone Jack
+[https://www.forbes.com/sites/jvchamary/2016/09/16/apple-iphone-headphone-jack/#7613b0b85348](Why Apple Was Right To Remove The iPhone 7 Headphone Jack) 
 
 Oh man, I remember when this happened. 

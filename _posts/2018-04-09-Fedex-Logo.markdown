@@ -1,3 +1,3 @@
 I remember in my first semester I took a classed called Visual Literacy. There was specific lesson in the class in which we talked about the design of logos and which logos were successful and which ones weren't. My professor specifically talked about the Fed Ex logo and how it's design potentially makes it the best logo of all time. He specifically was referring to the fact that there is a hidden arrow inbetween the E and the x. That arrow is so successful because it points to the right, implying movement, implying that your package will be delivered in a timely manner. I can definitely see why this logo is so successful, especially because the use of negative space makes the arrow not so apaprent. 
 
-<img src="/web1-sp/img/fedex-hidden-arrow.png" alt="Fed Ex">
+<img src="/tysons-random-musings/img/fedex-hidden-arrow.png" alt="Fed Ex">

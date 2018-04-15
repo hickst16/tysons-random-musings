@@ -1,3 +1,3 @@
 So the TCL Chinese Theater in Los Angeles, California is my absolute favorite movie theater. I love seeing big block buster movies because the screen is over 90 feet tall and is in IMAX. The auditorium sits over 900 people, making it the most epic movie viewing experience when it's totally packed. One thing that always sparked my interest is how it's "chinese" inspired. The design and decore is "chinese". I always found it to be a little but weird, but the design is interesting and fascnating to look at nevertheless. The photo below is the ceiling of the theater, seen when you look up.
 
-<img src="/web1-sp/img/chinese.jpg" alt="Chinese Ceiling">
+<img src="/tysons-random-musings/img/chinese.jpg" alt="Chinese Ceiling">

@@ -49,3 +49,29 @@ body {
 	padding: 2em;
 	border: 5px solid #530E53;
 }
+
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    width: auto;
+    height: 50px;
+}
+
+.navbar a {
+    float: left;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #008000;
+    color: white;
+}
+
+.navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}

@@ -50,6 +50,7 @@ body {
 	padding: 2em;
 	border: 5px solid #DC143C;
 	background-color: #DC143C;
+	text-decoration: none;
 }
 
 .navbar {

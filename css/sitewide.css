@@ -70,11 +70,11 @@ body {
 }
 
 .navbar a:hover {
-    background-color: black;
+    background-color: #000000;
     color: white;
 }
 
 .navbar a.active {
-    background-color: black;
+    background-color: #000000;
     color: white;
 }

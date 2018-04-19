@@ -75,6 +75,6 @@ body {
 }
 
 .navbar a.active {
-    background-color: #DC143C;
+    background-color: black;
     color: white;
 }

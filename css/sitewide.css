@@ -54,7 +54,7 @@ body {
 }
 
 .navbar {
-    background-color: #012E34;
+    background-color: #DC143C;
     overflow: hidden;
     width: auto;
     height: 50px;
@@ -62,7 +62,7 @@ body {
 
 .navbar a {
     float: left;
-    color: #FFD3AA;
+    color: #DC143C;
     text-align: left;
     padding: 14px 16px;
     font-size: 17px;
@@ -70,7 +70,7 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #008000;
+    background-color: #DC143C;
     color: white;
 }
 

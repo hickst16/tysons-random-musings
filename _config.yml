@@ -1,7 +1,7 @@
 
 # Site settings
-title: Random Musings of a Tyson's Mind
-description: A starter site
+title: "Random Musings of a Tyson's Mind"
+description: "A starter site"
 baseurl: "/tysons-random-musings" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "https://hickst16.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 

@@ -48,7 +48,8 @@ body {
 	width: 50%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #552900;
+	border: 5px solid #DC143C;
+	background-color: #DC143C;
 }
 
 .navbar {

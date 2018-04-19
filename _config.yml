@@ -14,7 +14,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-  
-  # Author Settings
-  author: "Tyson Hicks"
-  about-author: "Random posts concocted from my random mind." 

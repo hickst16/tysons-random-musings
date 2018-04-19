@@ -53,6 +53,10 @@ body {
 	text-decoration: none;
 }
 
+a {
+	text-decoration: none;
+}
+
 .navbar {
     background-color: #000000;
     overflow: hidden;
